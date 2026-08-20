@@ -1,5 +1,4 @@
 # Week 02 | Trasport Layer Protocol
-**Student ID:** 12315073
 
 ## Work Completed
 I created a four-host LAN on `10.1.1.0/24` through one Ethernet switch.
