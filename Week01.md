@@ -1,5 +1,4 @@
 # Week 01 | Introduction to Internetworking
-**Student ID:** 12315073
 
 ## Work Completed
 I created the GNS3 project `GNS3-Intro-12315073`, added one Linux host and configured `eth0` with the static address `10.10.1.1/24` using `/etc/network/interfaces`.
