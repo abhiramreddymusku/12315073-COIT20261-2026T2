@@ -1,6 +1,4 @@
-# COIT20261 – Week 4 Portfolio
 
-**Student ID:** 12315073
 
 ## Task 1 – HTTP Client with GUI
 I created three routed subnets with a Firefox client on Subnet A and an HTTP server on Subnet C. Router1 and Router2 forwarded traffic through Subnet B.
