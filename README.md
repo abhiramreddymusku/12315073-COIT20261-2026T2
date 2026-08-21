@@ -6,8 +6,8 @@
 - Tutor: Sunil Seneviratne
 
 ## Weekly Journal Entries
-1. [Introduction to Internetworking Section outline](./week01.md)
-2. [Transport Layer Protocol](./week02.md)
-3. [Transmission Control Protocol](./week03.md)
-4. [Classful & classless Addressing](./week04.md)
-5. [Routing](./week05.md)
+1. [Introduction to Internetworking Section outline](./Week01.md)
+2. [Transport Layer Protocol](./Week02.md)
+3. [Transmission Control Protocol](./Week03.md)
+4. [Classful & classless Addressing](./Week04.md)
+5. [Routing](./Week05.md)
