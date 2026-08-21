@@ -1,4 +1,4 @@
-# Week 02 | Trasport Layer Protocol
+# Week 02 | Transport Layer Protocol
 
 ## Work Completed
 I created a four-host LAN on `10.1.1.0/24` through one Ethernet switch.
